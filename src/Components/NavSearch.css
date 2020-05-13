@@ -1,0 +1,9 @@
+.navbar-content {
+  margin-right: 20px;
+}
+.navserachbar {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  top: 0;
+}
